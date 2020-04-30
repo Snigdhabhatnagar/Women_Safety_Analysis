@@ -2,9 +2,9 @@
 ## Table Of Content 
 1) [Installation](#installation)
 2) [Motivation](#motivation)
-3) [Files Description](#files)
+3) [Files Description](#files-description)
 4) [Result](#result)
-5) [Licensing, Authors, and Acknowledgements](#licence)
+5) [Licensing Authors and Acknowledgements](#licensing)
 
 ## Installation     
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.   
@@ -25,5 +25,6 @@ Other is a csv file where the data related to the project is compiled.
 ## Result     
 The main findings of the code can be found at the post available [here](https://medium.com/@snigdha.bhatnagar312/rape-in-india-a-visual-analysis-9683dd630c10).
   
-## Licensing, Authors, and Acknowledgements
+<a id="licensing"></a>
+## Licensing,Authors,and Acknowledgements
 Data used in the analysis is extracted from the National Crime Records Bureau(NCRB) official website.
